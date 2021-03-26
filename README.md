@@ -109,11 +109,6 @@ Checklists for (paper) authors and (software) developers:
 Best practice for software repositories and registries:
 - Task Force on Best Practices for Software Registries: A. Monteil, A. Gonzalez-Beltran, A. Ioannidis, A. Allen, A. Lee, A. Bandrowski, B. E. Wilson, B. Mecum, C. Fan Du, C. Robinson, D. Garijo, D. S. Katz, D. Long, G. Milliken, H. Ménager, J. Hausman, J. H. Spaaks, K. Fenlon, K. Vanderbilt, L. Hwang, L. Davis, M. Fenner, M. R. Crusoe, M. Hucka, M. Wu, N. Chue Hong, P. Teuben, S. Stall, S. Druskat, T. Carnevale, T. Morrell, "[Nine Best Practices for Research Software Registries and Repositories: A Concise Guide](https://arxiv.org/abs/2012.13117)," [arXiv 2012.13117 [cs.DL]](https://arxiv.org/abs/2012.13117), 2020.
 
-FAIR principles for research software:
-- Anna-Lena Lamprecht, Leyla Garcia, Mateusz Kuzak, Carlos Martinez, Ricardo Arcila, Eva Martin Del Pico, Victoria Dominguez Del Angel, et al. (2020): [Towards FAIR Principles for Research Software](https://doi.org/10.3233/ds-190026). _Data Science_ **3**(1), pp 37–59. <https://doi.org/10.3233/ds-190026>
-- Carole Goble, Sarah Cohen-Boulakia, Stian Soiland-Reyes, Daniel Garijo, Yolanda Gil, Michael R. Crusoe, Kristian Peters, Daniel Schober (2020): [FAIR Computational Workflows](https://doi.org/10.1162/dint_a_00033). _Data Intelligence_ **2**(1), pp 108–121. <https://doi.org/10.1162/dint_a_00033>
-- Wilhelm Hasselbring, Leslie Carr, Simon Hettrick, Heather Packer and Thanassis Tiropanis (2020): [From FAIR research data toward FAIR and open research software](https://doi.org/10.1515/itit-2019-0040) <https://doi.org/10.1515/itit-2019-0040>
-
 Guidance for journals:
 - D. S. Katz, N. P. Chue Hong, T. Clark, A. Muench, S. Stall, D. Bouquin, M. Cannon, S. Edmunds, T. Faez, P. Feeney, M. Fenner, M. Friedman, G. Grenier, M. Harrison, J. Heber, A. Leary, C. MacCallum, H. Murray, E. Pastrana, K. Perry, D. Schuster, M. Stockhause, J. Yeston, "[Recognizing the value of software: a software citation guide [version 2; peer review: 2 approved]](https://doi.org/10.12688/f1000research.26932.2)," F1000Research 9:1257, 2021. [https://doi.org/10.12688/f1000research.26932.2](https://doi.org/10.12688/f1000research.26932.2)
 - D. S. Katz, H. Murray, "[Guest Post — Citing Software in Scholarly Publishing to Improve Reproducibility, Reuse, and Credit](https://scholarlykitchen.sspnet.org/2021/01/21/guest-post-citing-software-in-scholarly-publishing-to-improve-reproducibility-reuse-and-credit/)," Scholarly Kitchen, 21-Jan-2021.
@@ -139,6 +134,16 @@ Guidance for journals:
 - [Software Heritage](https://www.softwareheritage.org/)
 - [ESIP Software and Services_Citation_Guidelines_and_Examples](https://esip.figshare.com/articles/Software_and_Services_Citation_Guidelines_and_Examples/7640426)
 
+### Related publications
+
+_These publications are not produced by the Force11 Working Group, but strongly support the Data Citation principles_
+
+- Anna-Lena Lamprecht, Leyla Garcia, Mateusz Kuzak, Carlos Martinez, Ricardo Arcila, Eva Martin Del Pico, Victoria Dominguez Del Angel, et al. (2020): [Towards FAIR Principles for Research Software](https://doi.org/10.3233/ds-190026). _Data Science_ **3**(1), pp 37–59. <https://doi.org/10.3233/ds-190026>
+- Carole Goble, Sarah Cohen-Boulakia, Stian Soiland-Reyes, Daniel Garijo, Yolanda Gil, Michael R. Crusoe, Kristian Peters, Daniel Schober (2020): [FAIR Computational Workflows](https://doi.org/10.1162/dint_a_00033). _Data Intelligence_ **2**(1), pp 108–121. <https://doi.org/10.1162/dint_a_00033>
+- Wilhelm Hasselbring, Leslie Carr, Simon Hettrick, Heather Packer and Thanassis Tiropanis (2020): [From FAIR research data toward FAIR and open research software](https://doi.org/10.1515/itit-2019-0040) _it - Information Technology_ **62**(1) pp 39–47. <https://doi.org/10.1515/itit-2019-0040>
+- Daniel S. Katz, Morane Gruenpeter, Tom Honeyman, Lorraine Hwang, Mark D. Wilkinson, Vanessa Sochat, Hartwig Anzt, Carole Goble, FAIR4RS Subgroup 1 (2021): [A Fresh Look at FAIR for Research Software](https://arxiv.org/pdf/2101.10883). [arXiv:2101.10883](https://arxiv.org/abs/2101.10883)
+- Jeremy Leipzig, Daniel Nüst, Charles Tapley Hoyt, Stian Soiland-Reyes, Karthik Ram, Jane Greenberg (2020):
+[The role of metadata in reproducible computational research](https://arxiv.org/pdf/2006.08589). <https://arxiv.org/abs/2006.08589>
 
 
 ## Potential early adopter groups
